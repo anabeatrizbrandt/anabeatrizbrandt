@@ -2,9 +2,8 @@
 
 Meu nome é **Ana**
 
-- 🌱 I’m currently learning a programar o Github
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+- 🌱 Atualmente estoy aprendendo a programar o Github
+- 😄 Pronomes: ela/dela
 
 [pensamento computacional]( https://pt.wikipedia.org/wiki/Pensamento_computacional)
 
