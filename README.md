@@ -1,8 +1,8 @@
- ## Hi there 👋:smiling_face_with_three_hearts:
+ ## Olá 👋:smiling_face_with_three_hearts:
 
-Meu nome é **Ana**
+Meu nome é **Ana Beatriz Brandt**
 
-- 🌱 Atualmente estoy aprendendo a programar o Github
+- 🌱 Atualmente estou aprendendo a programar o Github
 - 😄 Pronomes: ela/dela
 
 [pensamento computacional]( https://pt.wikipedia.org/wiki/Pensamento_computacional)
