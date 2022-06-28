@@ -7,3 +7,4 @@ Meu nome é **Ana**
 - ⚡ Fun fact: ...
 
 [pensamento computacional]( https://pt.wikipedia.org/wiki/Pensamento_computacional)
+![isso é uma imagem] (https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
